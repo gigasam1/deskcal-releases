@@ -1,11 +1,12 @@
-version: 2.3.23
+version: 2.3.24
 files:
-  - url: DeskCal-Setup-2.3.23.exe
-    sha512: 5l88XLJZFxINIM2T3sQ34VxfXM5aj4FW5sZfUDje4vNV1qPN1PwNPcfy4BdPkHKdMkf3zwx/e9olEyKhT+zGWg==
-    size: 75863682
-path: DeskCal-Setup-2.3.23.exe
-sha512: 5l88XLJZFxINIM2T3sQ34VxfXM5aj4FW5sZfUDje4vNV1qPN1PwNPcfy4BdPkHKdMkf3zwx/e9olEyKhT+zGWg==
+  - url: DeskCal-Setup-2.3.24.exe
+    sha512: wVdXBM+5jop6M4Ws+C3iRs6ocGTZ7RXM4MM6RZwwQM5WqkaJdrbmsYun6u5dTbDBPcTlz/HBxV/cCpp32b07Gg==
+    size: 75864869
+path: DeskCal-Setup-2.3.24.exe
+sha512: wVdXBM+5jop6M4Ws+C3iRs6ocGTZ7RXM4MM6RZwwQM5WqkaJdrbmsYun6u5dTbDBPcTlz/HBxV/cCpp32b07Gg==
 releaseNotes: |-
+  구글 문서·시트·슬라이드를 로그인된 계정에서 바로 만들기 (드라이브 권한이 없으면 크롬에서 만들고 주소를 복사하면 자동 연결)
   메모창을 간단하게: 누르면 바로 입력, Enter로 다음 줄, ✓로 닫기, 아래 연필(수정)로 모든 편집 기능
   입력한 순서대로 일정 표시
   내리기(–) 버튼: 머리줄만 남기고 일정 접기
@@ -75,4 +76,4 @@ releaseNotes: |-
   날짜별 구글 문서·시트를 백업 폴더에 만들기
   시간표 사진을 끌어다 놓거나 Ctrl+V로 붙여넣기
   화면 스타일 5가지, 수업 시간표와 3분 전 알림, 일정 자세히 보기, 업데이트 알림
-releaseDate: '2026-11-08T00:06:30.085Z'
+releaseDate: '2026-11-08T00:38:46.136Z'
