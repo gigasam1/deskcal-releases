@@ -1,11 +1,14 @@
-version: 2.3.22
+version: 2.3.23
 files:
-  - url: DeskCal-Setup-2.3.22.exe
-    sha512: qNn8z7ZRsWt3FGf2i28i1UAouJg6ogc/d2UPaP+6OxSA8u/zYDLESPGrjLoDTV6+ZIwWc6iZC1Z0EsFxtIdZgQ==
-    size: 75862547
-path: DeskCal-Setup-2.3.22.exe
-sha512: qNn8z7ZRsWt3FGf2i28i1UAouJg6ogc/d2UPaP+6OxSA8u/zYDLESPGrjLoDTV6+ZIwWc6iZC1Z0EsFxtIdZgQ==
+  - url: DeskCal-Setup-2.3.23.exe
+    sha512: 5l88XLJZFxINIM2T3sQ34VxfXM5aj4FW5sZfUDje4vNV1qPN1PwNPcfy4BdPkHKdMkf3zwx/e9olEyKhT+zGWg==
+    size: 75863682
+path: DeskCal-Setup-2.3.23.exe
+sha512: 5l88XLJZFxINIM2T3sQ34VxfXM5aj4FW5sZfUDje4vNV1qPN1PwNPcfy4BdPkHKdMkf3zwx/e9olEyKhT+zGWg==
 releaseNotes: |-
+  메모창을 간단하게: 누르면 바로 입력, Enter로 다음 줄, ✓로 닫기, 아래 연필(수정)로 모든 편집 기능
+  입력한 순서대로 일정 표시
+  내리기(–) 버튼: 머리줄만 남기고 일정 접기
   다른 컴퓨터: 설치 후 구글 로그인만 하면 바로 동기화 (로그인 키 내장)
   동기화 더 빠르게: 창으로 돌아오면 바로, 열려 있는 동안 45초마다 확인
   일정·메모창 줄을 마우스로 끌어 순서 바꾸기·다른 날짜로 옮기기 (더 확실하게)
@@ -72,4 +75,4 @@ releaseNotes: |-
   날짜별 구글 문서·시트를 백업 폴더에 만들기
   시간표 사진을 끌어다 놓거나 Ctrl+V로 붙여넣기
   화면 스타일 5가지, 수업 시간표와 3분 전 알림, 일정 자세히 보기, 업데이트 알림
-releaseDate: '2026-11-07T23:19:07.005Z'
+releaseDate: '2026-11-08T00:06:30.085Z'
