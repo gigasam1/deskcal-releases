@@ -1,11 +1,13 @@
-version: 2.3.25
+version: 2.3.26
 files:
-  - url: DeskCal-Setup-2.3.25.exe
-    sha512: QIAXXZVqCzX9BAzDUgQfduGFUq3oe/JVVkci6YiprXlW7AryDP3MCgxXI0zfj0INxpbJsn1+nrsiEjl/Lu1tZQ==
-    size: 75866113
-path: DeskCal-Setup-2.3.25.exe
-sha512: QIAXXZVqCzX9BAzDUgQfduGFUq3oe/JVVkci6YiprXlW7AryDP3MCgxXI0zfj0INxpbJsn1+nrsiEjl/Lu1tZQ==
+  - url: DeskCal-Setup-2.3.26.exe
+    sha512: O6Aq7D4RqiXb9Ws68CLN8aRjx1PjH5UCUkP7ROnT31CoEQSnc7FYs1T+P/ohf4Zdya5NaQi3iNQmaExAVQP6RA==
+    size: 75867394
+path: DeskCal-Setup-2.3.26.exe
+sha512: O6Aq7D4RqiXb9Ws68CLN8aRjx1PjH5UCUkP7ROnT31CoEQSnc7FYs1T+P/ohf4Zdya5NaQi3iNQmaExAVQP6RA==
 releaseNotes: |-
+  메모창: 칸 구분 없이 자유롭게 쓰기 — Enter를 누르면 • 와 함께 다음 줄, ✓로 저장 (줄을 고치면 일정 수정, 지우면 삭제, ✓를 붙이면 완료)
+  "마감"이 들어간 일정은 자동으로 형광펜·굵게, 그날 칸은 붉은색
   메뉴를 종류별로 묶음 (보기·화면, 일정 정리, 불릿, 사이드바·링크, 휴대폰·고정, 백업·파일, 설정·도움말) — 화면 아래가 잘리지 않게
   구글 문서·시트·슬라이드를 로그인된 계정에서 바로 만들기 (드라이브 권한이 없으면 크롬에서 만들고 주소를 복사하면 자동 연결)
   메모창을 간단하게: 누르면 바로 입력, Enter로 다음 줄, ✓로 닫기, 아래 연필(수정)로 모든 편집 기능
@@ -77,4 +79,4 @@ releaseNotes: |-
   날짜별 구글 문서·시트를 백업 폴더에 만들기
   시간표 사진을 끌어다 놓거나 Ctrl+V로 붙여넣기
   화면 스타일 5가지, 수업 시간표와 3분 전 알림, 일정 자세히 보기, 업데이트 알림
-releaseDate: '2026-11-09T04:48:40.819Z'
+releaseDate: '2026-11-09T04:53:37.254Z'
