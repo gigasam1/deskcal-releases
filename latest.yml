@@ -1,11 +1,12 @@
-version: 2.4.2
+version: 2.4.3
 files:
-  - url: DeskCal-Setup-2.4.2.exe
-    sha512: HRR/G+TDe5+zSgmAtpvh5mKTeSSCtqcaF/z6eEJ7AVdaD0u0PlHVRTi/GOTZ9hGf8qORSq5ROCq5EoMFrq11XA==
-    size: 75874151
-path: DeskCal-Setup-2.4.2.exe
-sha512: HRR/G+TDe5+zSgmAtpvh5mKTeSSCtqcaF/z6eEJ7AVdaD0u0PlHVRTi/GOTZ9hGf8qORSq5ROCq5EoMFrq11XA==
+  - url: DeskCal-Setup-2.4.3.exe
+    sha512: 51phMhDO5dento0JBpHjIeS3MOVDfH1wWNWxG7gt4AYS+mHSvGM7YlBaL6eWMDHAR5ax4dcSbiA/UZikHE5yNw==
+    size: 75874627
+path: DeskCal-Setup-2.4.3.exe
+sha512: 51phMhDO5dento0JBpHjIeS3MOVDfH1wWNWxG7gt4AYS+mHSvGM7YlBaL6eWMDHAR5ax4dcSbiA/UZikHE5yNw==
 releaseNotes: |-
+  사이드바 링크를 다른 모니터에 이미 열려 있는 크롬 창에 새 탭으로 열기 (새 창을 만들지 않음, 그 모니터에 크롬 창이 없을 때만 새 창)
   링크 고치기 창에 아이콘 샘플: 종류별(문서·업무, 학교·교실, 수업·퀴즈, 영상·음악, 디자인·만들기, AI·도구, 소통·메일, 폴더·프로그램, 생활·기타) 10가지씩 눌러서 고르기, 주소에 맞는 종류를 '추천'으로 먼저 보여 줌
   사이드바 정리: 폴더 제목이 찌그러지지 않고 또렷하게 (구분선·개수 표시), 목록 맨 아래까지 정확히 스크롤, 긴 이름은 …으로 줄임
   사이드바에 주소·즐겨찾기·.url 파일·바로가기·폴더를 끌어다 놓거나 붙여넣으면 바로 등록
@@ -90,4 +91,4 @@ releaseNotes: |-
   날짜별 구글 문서·시트를 백업 폴더에 만들기
   시간표 사진을 끌어다 놓거나 Ctrl+V로 붙여넣기
   화면 스타일 5가지, 수업 시간표와 3분 전 알림, 일정 자세히 보기, 업데이트 알림
-releaseDate: '2026-11-10T01:01:33.706Z'
+releaseDate: '2026-11-10T01:04:23.685Z'
