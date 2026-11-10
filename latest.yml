@@ -1,11 +1,12 @@
-version: 2.3.29
+version: 2.3.30
 files:
-  - url: DeskCal-Setup-2.3.29.exe
-    sha512: 4oq7GROKxKrvpURpLlMqsr1G0a8KcHGYGUGVhRUfq1rTD4UINw+cN9dthRF2fDhTWPz5heRwf4LDqU2+/kFL9w==
-    size: 75869089
-path: DeskCal-Setup-2.3.29.exe
-sha512: 4oq7GROKxKrvpURpLlMqsr1G0a8KcHGYGUGVhRUfq1rTD4UINw+cN9dthRF2fDhTWPz5heRwf4LDqU2+/kFL9w==
+  - url: DeskCal-Setup-2.3.30.exe
+    sha512: seSj0ptPfrJKKTsX2e0+18q/TONx2PUBzVHcbO1zUPdtkw+VUfje/v1viaykitHcTBp9/QAJzif47YucoZ18Lw==
+    size: 75869383
+path: DeskCal-Setup-2.3.30.exe
+sha512: seSj0ptPfrJKKTsX2e0+18q/TONx2PUBzVHcbO1zUPdtkw+VUfje/v1viaykitHcTBp9/QAJzif47YucoZ18Lw==
 releaseNotes: |-
+  날짜 칸을 두 번 눌러 입력, 다른 곳을 한 번 누르면 저장하고 입력창 닫힘
   메모창이 창보다 길면 메모창 안에서 스크롤 (색 고르기 등 아래까지 보임)
   휴대폰 화면: 달력엔 색 점, 고른 날짜의 일정은 아래에 큰 글씨 목록
   메모창에 여러 날 일정 버튼 (1박2일·2박3일·5일·1주일)
@@ -83,4 +84,4 @@ releaseNotes: |-
   날짜별 구글 문서·시트를 백업 폴더에 만들기
   시간표 사진을 끌어다 놓거나 Ctrl+V로 붙여넣기
   화면 스타일 5가지, 수업 시간표와 3분 전 알림, 일정 자세히 보기, 업데이트 알림
-releaseDate: '2026-11-09T23:50:49.061Z'
+releaseDate: '2026-11-10T00:13:10.943Z'
