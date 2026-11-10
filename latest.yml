@@ -1,11 +1,12 @@
-version: 2.4.9
+version: 2.5.0
 files:
-  - url: DeskCal-Setup-2.4.9.exe
-    sha512: aAejECqR/kyxuGIqFJq4DxAwx/RAy/HykOnsr3TwiQOfp1icjQabBYq6Aiw2U1Lxxn3XSFJhmLMBOGang+E78A==
-    size: 75880639
-path: DeskCal-Setup-2.4.9.exe
-sha512: aAejECqR/kyxuGIqFJq4DxAwx/RAy/HykOnsr3TwiQOfp1icjQabBYq6Aiw2U1Lxxn3XSFJhmLMBOGang+E78A==
+  - url: DeskCal-Setup-2.5.0.exe
+    sha512: +yGsLRfoQ+sZKpz78HQR5hUHOYFnmG4/yr9epybQNJ8DYtsjrwCnAnaYoRUCqWm1bSzV48ipXZvpAHurIiUXXw==
+    size: 75882124
+path: DeskCal-Setup-2.5.0.exe
+sha512: +yGsLRfoQ+sZKpz78HQR5hUHOYFnmG4/yr9epybQNJ8DYtsjrwCnAnaYoRUCqWm1bSzV48ipXZvpAHurIiUXXw==
 releaseNotes: |-
+  눈이 편한 화면 스타일 10가지 추가: 라벤더 안개, 민트 크림, 모카 라떼, 맑은 하늘, 웜 아이보리, 로즈 베이지, 세이지 그린, 딥 네이비, 소프트 차콜, 밤의 숲
   즐겨찾기 창에서 수정·추가·영역 만들기 창이 뒤에 가려 안 보이던 문제 고침
   즐겨찾기에 윈도우 프로그램·바로가기·폴더 연결 (+ 프로그램, + 폴더 버튼, 끌어다 놓기), 링크 고치기 창에 프로그램·폴더 고르기 버튼
   시간표 사진 읽기: 목·금(월) 열이 비면 그 열만 다시 읽기, '기술·가정'·'기가'도 '기술가정'으로 인식
@@ -99,4 +100,4 @@ releaseNotes: |-
   날짜별 구글 문서·시트를 백업 폴더에 만들기
   시간표 사진을 끌어다 놓거나 Ctrl+V로 붙여넣기
   화면 스타일 5가지, 수업 시간표와 3분 전 알림, 일정 자세히 보기, 업데이트 알림
-releaseDate: '2026-11-10T02:01:28.606Z'
+releaseDate: '2026-11-10T03:06:59.462Z'
