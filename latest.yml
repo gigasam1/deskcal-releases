@@ -1,11 +1,15 @@
-version: 2.4.7
+version: 2.4.9
 files:
-  - url: DeskCal-Setup-2.4.7.exe
-    sha512: WrRwm5zPVe9XzlWbNHrxLZ1dOjQnyZ9W28tCN24mnDI7ldzvmIzoiZnCwVZLoWAHrgFU2nqJV6jJHkdn1deWaQ==
-    size: 75878781
-path: DeskCal-Setup-2.4.7.exe
-sha512: WrRwm5zPVe9XzlWbNHrxLZ1dOjQnyZ9W28tCN24mnDI7ldzvmIzoiZnCwVZLoWAHrgFU2nqJV6jJHkdn1deWaQ==
+  - url: DeskCal-Setup-2.4.9.exe
+    sha512: aAejECqR/kyxuGIqFJq4DxAwx/RAy/HykOnsr3TwiQOfp1icjQabBYq6Aiw2U1Lxxn3XSFJhmLMBOGang+E78A==
+    size: 75880639
+path: DeskCal-Setup-2.4.9.exe
+sha512: aAejECqR/kyxuGIqFJq4DxAwx/RAy/HykOnsr3TwiQOfp1icjQabBYq6Aiw2U1Lxxn3XSFJhmLMBOGang+E78A==
 releaseNotes: |-
+  즐겨찾기 창에서 수정·추가·영역 만들기 창이 뒤에 가려 안 보이던 문제 고침
+  즐겨찾기에 윈도우 프로그램·바로가기·폴더 연결 (+ 프로그램, + 폴더 버튼, 끌어다 놓기), 링크 고치기 창에 프로그램·폴더 고르기 버튼
+  시간표 사진 읽기: 목·금(월) 열이 비면 그 열만 다시 읽기, '기술·가정'·'기가'도 '기술가정'으로 인식
+  시간표 사진을 누르면 화면 가득 크게 보기 (한 번 더 누르면 원래 크기로 확대)
   즐겨찾기 모음 버튼을 사이드바 링크 찾기 칸 바로 아래로 옮김
   마우스를 올릴 때 메뉴·내용이 흔들리던 문제 고침: 사이드바 펼침 애니메이션 없앰, 지나가기만 할 땐 펼치지 않음, 수정·삭제 버튼이 글자를 밀지 않고 위에 겹쳐 나옴, 펼친 사이드바가 창 끌기 영역과 겹쳐 깜빡이던 문제 고침
   즐겨찾기 모음: 영역(폴더)별 제목으로 나눠 보기, 카드마다 열기·복사·수정·삭제 버튼, 2~10열 보기, 카드를 끌어 위치·영역 옮기기, 영역 손잡이를 끌어 영역 순서 바꾸기, 영역별 + 추가·이름 바꾸기
@@ -95,4 +99,4 @@ releaseNotes: |-
   날짜별 구글 문서·시트를 백업 폴더에 만들기
   시간표 사진을 끌어다 놓거나 Ctrl+V로 붙여넣기
   화면 스타일 5가지, 수업 시간표와 3분 전 알림, 일정 자세히 보기, 업데이트 알림
-releaseDate: '2026-11-10T01:57:16.691Z'
+releaseDate: '2026-11-10T02:01:28.606Z'
