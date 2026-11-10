@@ -1,11 +1,12 @@
-version: 2.5.0
+version: 2.5.1
 files:
-  - url: DeskCal-Setup-2.5.0.exe
-    sha512: +yGsLRfoQ+sZKpz78HQR5hUHOYFnmG4/yr9epybQNJ8DYtsjrwCnAnaYoRUCqWm1bSzV48ipXZvpAHurIiUXXw==
-    size: 75882124
-path: DeskCal-Setup-2.5.0.exe
-sha512: +yGsLRfoQ+sZKpz78HQR5hUHOYFnmG4/yr9epybQNJ8DYtsjrwCnAnaYoRUCqWm1bSzV48ipXZvpAHurIiUXXw==
+  - url: DeskCal-Setup-2.5.1.exe
+    sha512: Flx0m2hAQgSBnXuqnfZo1P/eFmCtnOXCg6Z3ogA7y5QsYL/H2smuIzAmoOUzl9pP+6j0YnCZpwXCcWSAQo/d3A==
+    size: 75882148
+path: DeskCal-Setup-2.5.1.exe
+sha512: Flx0m2hAQgSBnXuqnfZo1P/eFmCtnOXCg6Z3ogA7y5QsYL/H2smuIzAmoOUzl9pP+6j0YnCZpwXCcWSAQo/d3A==
 releaseNotes: |-
+  즐겨찾기 첫 화면을 '전체'로: 웹사이트와 파일·폴더를 한 화면에 영역별로 함께 표시 (웹사이트·파일·폴더 탭으로 따로 보기도 가능)
   눈이 편한 화면 스타일 10가지 추가: 라벤더 안개, 민트 크림, 모카 라떼, 맑은 하늘, 웜 아이보리, 로즈 베이지, 세이지 그린, 딥 네이비, 소프트 차콜, 밤의 숲
   즐겨찾기 창에서 수정·추가·영역 만들기 창이 뒤에 가려 안 보이던 문제 고침
   즐겨찾기에 윈도우 프로그램·바로가기·폴더 연결 (+ 프로그램, + 폴더 버튼, 끌어다 놓기), 링크 고치기 창에 프로그램·폴더 고르기 버튼
@@ -100,4 +101,4 @@ releaseNotes: |-
   날짜별 구글 문서·시트를 백업 폴더에 만들기
   시간표 사진을 끌어다 놓거나 Ctrl+V로 붙여넣기
   화면 스타일 5가지, 수업 시간표와 3분 전 알림, 일정 자세히 보기, 업데이트 알림
-releaseDate: '2026-11-10T03:06:59.462Z'
+releaseDate: '2026-11-10T04:25:06.979Z'
