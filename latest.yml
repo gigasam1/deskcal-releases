@@ -1,11 +1,12 @@
-version: 2.4.0
+version: 2.4.1
 files:
-  - url: DeskCal-Setup-2.4.0.exe
-    sha512: 4l53j3sMkI5y5bPmteCQrdwadFfKj9lqwaW6Om7uHYIvIRyuAP11KA4jpGdKsDbrXRVSBGw68tHKlzfy/C68OA==
-    size: 75872275
-path: DeskCal-Setup-2.4.0.exe
-sha512: 4l53j3sMkI5y5bPmteCQrdwadFfKj9lqwaW6Om7uHYIvIRyuAP11KA4jpGdKsDbrXRVSBGw68tHKlzfy/C68OA==
+  - url: DeskCal-Setup-2.4.1.exe
+    sha512: SkpqexmXwJ81ElFLiHwK1gHnsO8tRHJdwlFlbTJnvT1oc8zpRF3RidenDpvZYRjCaFUIpELLmpn8EbT+rkCoZQ==
+    size: 75872161
+path: DeskCal-Setup-2.4.1.exe
+sha512: SkpqexmXwJ81ElFLiHwK1gHnsO8tRHJdwlFlbTJnvT1oc8zpRF3RidenDpvZYRjCaFUIpELLmpn8EbT+rkCoZQ==
 releaseNotes: |-
+  사이드바 정리: 폴더 제목이 찌그러지지 않고 또렷하게 (구분선·개수 표시), 목록 맨 아래까지 정확히 스크롤, 긴 이름은 …으로 줄임
   사이드바에 주소·즐겨찾기·.url 파일·바로가기·폴더를 끌어다 놓거나 붙여넣으면 바로 등록
   메뉴 맨 위 '최신 버전 받아 설치' 버튼: 누르면 최신 설치 파일을 받아 자동으로 덮어 설치하고 다시 실행
   링크 넣기 창에서 구글 문서·시트·슬라이드를 바로 만들어 연결, 이미지 연결(끌어다 놓기·붙여넣기)
@@ -88,4 +89,4 @@ releaseNotes: |-
   날짜별 구글 문서·시트를 백업 폴더에 만들기
   시간표 사진을 끌어다 놓거나 Ctrl+V로 붙여넣기
   화면 스타일 5가지, 수업 시간표와 3분 전 알림, 일정 자세히 보기, 업데이트 알림
-releaseDate: '2026-11-10T00:26:40.901Z'
+releaseDate: '2026-11-10T00:43:46.728Z'
