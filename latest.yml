@@ -1,11 +1,12 @@
-version: 2.4.5
+version: 2.4.6
 files:
-  - url: DeskCal-Setup-2.4.5.exe
-    sha512: e2U0l4HQhtYsKXRqTTu/Ul1tIHXXlg1m1CYtY1DOO7kzuHy3Eyg0fgDJJMzQl9EgePZuh7S6KTCXpXxygZNyIQ==
-    size: 75878651
-path: DeskCal-Setup-2.4.5.exe
-sha512: e2U0l4HQhtYsKXRqTTu/Ul1tIHXXlg1m1CYtY1DOO7kzuHy3Eyg0fgDJJMzQl9EgePZuh7S6KTCXpXxygZNyIQ==
+  - url: DeskCal-Setup-2.4.6.exe
+    sha512: lQwOILEMKLv4K5CsSggLWegSi42qJdix4DhlQCYbNNaTIpCVaap6IFc8h2m1jUbDretZre9FCkucyHTxmWpCJA==
+    size: 75878700
+path: DeskCal-Setup-2.4.6.exe
+sha512: lQwOILEMKLv4K5CsSggLWegSi42qJdix4DhlQCYbNNaTIpCVaap6IFc8h2m1jUbDretZre9FCkucyHTxmWpCJA==
 releaseNotes: |-
+  마우스를 올릴 때 메뉴·내용이 흔들리던 문제 고침: 사이드바 펼침 애니메이션 없앰, 지나가기만 할 땐 펼치지 않음, 수정·삭제 버튼이 글자를 밀지 않고 위에 겹쳐 나옴, 펼친 사이드바가 창 끌기 영역과 겹쳐 깜빡이던 문제 고침
   즐겨찾기 모음: 영역(폴더)별 제목으로 나눠 보기, 카드마다 열기·복사·수정·삭제 버튼, 2~10열 보기, 카드를 끌어 위치·영역 옮기기, 영역 손잡이를 끌어 영역 순서 바꾸기, 영역별 + 추가·이름 바꾸기
   즐겨찾기 모음: 사이드바 위 책갈피 버튼으로 크게 보기 — 웹사이트 / 파일·폴더 탭, 검색, 리스트·그리드(2~5열), 열기·주소 복사, 편집(고치기·지우기), 추가
   사이드바 링크를 다른 모니터에 이미 열려 있는 크롬 창에 새 탭으로 열기 (새 창을 만들지 않음, 그 모니터에 크롬 창이 없을 때만 새 창)
@@ -93,4 +94,4 @@ releaseNotes: |-
   날짜별 구글 문서·시트를 백업 폴더에 만들기
   시간표 사진을 끌어다 놓거나 Ctrl+V로 붙여넣기
   화면 스타일 5가지, 수업 시간표와 3분 전 알림, 일정 자세히 보기, 업데이트 알림
-releaseDate: '2026-11-10T01:44:36.874Z'
+releaseDate: '2026-11-10T01:48:43.577Z'
