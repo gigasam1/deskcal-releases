@@ -1,11 +1,14 @@
-version: 2.6.4
+version: 2.7.0
 files:
-  - url: DeskCal-Setup-2.6.4.exe
-    sha512: eshASHpYWzpGDKWmdrs+CBcIvMIDVdxj8hB7c7WnLjF76a4Ik4N4hgxn0KYywHP88jEZk0fTFKS4pnjLQaxSHg==
-    size: 75886879
-path: DeskCal-Setup-2.6.4.exe
-sha512: eshASHpYWzpGDKWmdrs+CBcIvMIDVdxj8hB7c7WnLjF76a4Ik4N4hgxn0KYywHP88jEZk0fTFKS4pnjLQaxSHg==
+  - url: DeskCal-Setup-2.7.0.exe
+    sha512: 08mJw6vOESQSEiQwMB0cy0QZiAV75Qc1Ie3zGMYy1pG6CmEFQlFhPv9ayBaLzu2CUvmCKzy96d9nuLR23PkiUA==
+    size: 75888479
+path: DeskCal-Setup-2.7.0.exe
+sha512: 08mJw6vOESQSEiQwMB0cy0QZiAV75Qc1Ie3zGMYy1pG6CmEFQlFhPv9ayBaLzu2CUvmCKzy96d9nuLR23PkiUA==
 releaseNotes: |-
+  시트 일정에 마우스를 올리면 ✓완료·🖍형광·🔗링크·✕삭제·⋯더보기 버튼 (링크 건 일정은 누르면 바로 열림)
+  시트 일정이 …으로 잘리지 않고 줄바꿈되어 모두 보임
+  기기 간 동기화: 두 컴퓨터에서 각각 바꾼 내용을 덮어쓰지 않고 합침, 30초마다·창으로 돌아올 때 바로 확인
   시트에서 가져온 파란 일정을 누르면 고치기·지우기·내 일정으로 옮기기·시트에서 열기 (되돌리기 가능, 연결 창에서 모두 되돌리기)
   구글 시트 연결: 월별 탭(3월~이듬해 2월)에 적힌 내용을 모두 날짜별 파란 글씨로 표시, 3분마다 자동 반영
   위쪽 도구줄을 한 줄로: 창이 좁으면 덜 쓰는 버튼부터 자동으로 숨김(메뉴에서 모두 사용 가능)
@@ -106,4 +109,4 @@ releaseNotes: |-
   날짜별 구글 문서·시트를 백업 폴더에 만들기
   시간표 사진을 끌어다 놓거나 Ctrl+V로 붙여넣기
   화면 스타일 5가지, 수업 시간표와 3분 전 알림, 일정 자세히 보기, 업데이트 알림
-releaseDate: '2026-11-13T07:28:43.332Z'
+releaseDate: '2026-11-13T19:14:05.509Z'
