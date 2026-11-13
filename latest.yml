@@ -1,11 +1,12 @@
-version: 2.7.0
+version: 2.7.1
 files:
-  - url: DeskCal-Setup-2.7.0.exe
-    sha512: 08mJw6vOESQSEiQwMB0cy0QZiAV75Qc1Ie3zGMYy1pG6CmEFQlFhPv9ayBaLzu2CUvmCKzy96d9nuLR23PkiUA==
-    size: 75888479
-path: DeskCal-Setup-2.7.0.exe
-sha512: 08mJw6vOESQSEiQwMB0cy0QZiAV75Qc1Ie3zGMYy1pG6CmEFQlFhPv9ayBaLzu2CUvmCKzy96d9nuLR23PkiUA==
+  - url: DeskCal-Setup-2.7.1.exe
+    sha512: G3khTGhPF/PMR5WFaEa7hKaTIgLbLs0eYoTwwwKSOaYWylaiX65r4C7Jg8JN89cfieOt3PKjxUm4aLe6PmuyzQ==
+    size: 75889332
+path: DeskCal-Setup-2.7.1.exe
+sha512: G3khTGhPF/PMR5WFaEa7hKaTIgLbLs0eYoTwwwKSOaYWylaiX65r4C7Jg8JN89cfieOt3PKjxUm4aLe6PmuyzQ==
 releaseNotes: |-
+  시트 일정: 불릿 하나만, 칸 안에서 이어지는 줄은 한 항목으로 합침, 임송원·정선삼·윤영순 겸무는 가져오지 않음(이미 가져온 것도 숨김, 연결 창에서 제외 단어 바꾸기 가능), 내 일정과 같은 내용은 표시하지 않음
   시트 일정에 마우스를 올리면 ✓완료·🖍형광·🔗링크·✕삭제·⋯더보기 버튼 (링크 건 일정은 누르면 바로 열림)
   시트 일정이 …으로 잘리지 않고 줄바꿈되어 모두 보임
   기기 간 동기화: 두 컴퓨터에서 각각 바꾼 내용을 덮어쓰지 않고 합침, 30초마다·창으로 돌아올 때 바로 확인
@@ -109,4 +110,4 @@ releaseNotes: |-
   날짜별 구글 문서·시트를 백업 폴더에 만들기
   시간표 사진을 끌어다 놓거나 Ctrl+V로 붙여넣기
   화면 스타일 5가지, 수업 시간표와 3분 전 알림, 일정 자세히 보기, 업데이트 알림
-releaseDate: '2026-11-13T19:14:05.509Z'
+releaseDate: '2026-11-13T19:23:53.764Z'
