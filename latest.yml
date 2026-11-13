@@ -1,11 +1,14 @@
-version: 2.7.1
+version: 2.7.2
 files:
-  - url: DeskCal-Setup-2.7.1.exe
-    sha512: G3khTGhPF/PMR5WFaEa7hKaTIgLbLs0eYoTwwwKSOaYWylaiX65r4C7Jg8JN89cfieOt3PKjxUm4aLe6PmuyzQ==
-    size: 75889332
-path: DeskCal-Setup-2.7.1.exe
-sha512: G3khTGhPF/PMR5WFaEa7hKaTIgLbLs0eYoTwwwKSOaYWylaiX65r4C7Jg8JN89cfieOt3PKjxUm4aLe6PmuyzQ==
+  - url: DeskCal-Setup-2.7.2.exe
+    sha512: 3SsrcXEFONZX2d+237GuULYE85anEMwuwLsVPeuUHwzydGHIKxAA/S1mTZjdBaXQ9qg7rwP0yK8tqKAQamtfKA==
+    size: 75889071
+path: DeskCal-Setup-2.7.2.exe
+sha512: 3SsrcXEFONZX2d+237GuULYE85anEMwuwLsVPeuUHwzydGHIKxAA/S1mTZjdBaXQ9qg7rwP0yK8tqKAQamtfKA==
 releaseNotes: |-
+  입력창은 언제나 칸 구분 없는 간단 입력(Enter로 항목 구분)으로 열림, '수정' 버튼으로 연 칸 편집은 닫으면 다시 간단 입력으로
+  구글 캘린더 새로 고침이 멈추던 문제 고침: 다른 창에 가려지거나 안내창이 열려 있어도 1분마다 새로 고침, 창으로 돌아오면 바로 새로 고침
+  시트 일정 데이터를 설정과 따로 동기화해 설정 동기화가 가벼워짐
   시트 일정: 불릿 하나만, 칸 안에서 이어지는 줄은 한 항목으로 합침, 임송원·정선삼·윤영순 겸무는 가져오지 않음(이미 가져온 것도 숨김, 연결 창에서 제외 단어 바꾸기 가능), 내 일정과 같은 내용은 표시하지 않음
   시트 일정에 마우스를 올리면 ✓완료·🖍형광·🔗링크·✕삭제·⋯더보기 버튼 (링크 건 일정은 누르면 바로 열림)
   시트 일정이 …으로 잘리지 않고 줄바꿈되어 모두 보임
@@ -110,4 +113,4 @@ releaseNotes: |-
   날짜별 구글 문서·시트를 백업 폴더에 만들기
   시간표 사진을 끌어다 놓거나 Ctrl+V로 붙여넣기
   화면 스타일 5가지, 수업 시간표와 3분 전 알림, 일정 자세히 보기, 업데이트 알림
-releaseDate: '2026-11-13T19:23:53.764Z'
+releaseDate: '2026-11-13T19:38:02.365Z'
