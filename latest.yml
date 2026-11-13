@@ -1,11 +1,12 @@
-version: 2.6.3
+version: 2.6.4
 files:
-  - url: DeskCal-Setup-2.6.3.exe
-    sha512: uwDj4EOh9WT5CruoDBebNP4tNylBdtayJJ/aVHjgVi0dux/4wsIBx5KeVdDoh/09tIoi0favLU/wvznPztnUBA==
-    size: 75886059
-path: DeskCal-Setup-2.6.3.exe
-sha512: uwDj4EOh9WT5CruoDBebNP4tNylBdtayJJ/aVHjgVi0dux/4wsIBx5KeVdDoh/09tIoi0favLU/wvznPztnUBA==
+  - url: DeskCal-Setup-2.6.4.exe
+    sha512: eshASHpYWzpGDKWmdrs+CBcIvMIDVdxj8hB7c7WnLjF76a4Ik4N4hgxn0KYywHP88jEZk0fTFKS4pnjLQaxSHg==
+    size: 75886879
+path: DeskCal-Setup-2.6.4.exe
+sha512: eshASHpYWzpGDKWmdrs+CBcIvMIDVdxj8hB7c7WnLjF76a4Ik4N4hgxn0KYywHP88jEZk0fTFKS4pnjLQaxSHg==
 releaseNotes: |-
+  시트에서 가져온 파란 일정을 누르면 고치기·지우기·내 일정으로 옮기기·시트에서 열기 (되돌리기 가능, 연결 창에서 모두 되돌리기)
   구글 시트 연결: 월별 탭(3월~이듬해 2월)에 적힌 내용을 모두 날짜별 파란 글씨로 표시, 3분마다 자동 반영
   위쪽 도구줄을 한 줄로: 창이 좁으면 덜 쓰는 버튼부터 자동으로 숨김(메뉴에서 모두 사용 가능)
   내용 글씨 크기 고르기: 위쪽 '가▾' 버튼에서 8단계(아주 작게~가장 크게)와 가−/가+로 0.5px씩 조절, 입력창·휴대폰 목록도 함께 커짐
@@ -105,4 +106,4 @@ releaseNotes: |-
   날짜별 구글 문서·시트를 백업 폴더에 만들기
   시간표 사진을 끌어다 놓거나 Ctrl+V로 붙여넣기
   화면 스타일 5가지, 수업 시간표와 3분 전 알림, 일정 자세히 보기, 업데이트 알림
-releaseDate: '2026-11-13T07:18:17.190Z'
+releaseDate: '2026-11-13T07:28:43.332Z'
